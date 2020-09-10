@@ -1,1 +1,1 @@
-# literate-happiness
+# minimal OS similar to DOS
